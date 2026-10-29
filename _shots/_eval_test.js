@@ -1,1 +1,40 @@
-Ly8g5qC45b+D5Lqk5LqS6Lev5b6E6aqM6K+B77yI5Yid5aeL5oCBIC0+IOa3u+WKoOeJqeWTgSAtPiDloIblj6Av5aSa5qC8IC0+IOivpuaDhSAtPiDnu5/orqHvvIkKY29uc3QgcmVzdWx0cyA9IHt9OwoKLy8gMSkg5Y+v5aCG5Y+g54mp5ZOB77ya6I2v6I2JKGlkMikg5Yqg5Lik5qyhIC0+IOW6lOWghuWPoOS4uiBxdHk9Mu+8jOWNoDHmoLwKYWRkSXRlbSgyLCAxKTsKYWRkSXRlbSgyLCAxKTsKCi8vIDIpIOWkmuagvOeJqeWTge+8muaApeaVkeWMhShpZDI2LCAy5qC8KSDliqAx5LiqCmFkZEl0ZW0oMjYsIDEpOwoKLy8gMykgNOagvOeJqeWTge+8mumYsuW8ueiDjOW/gyhpZDUyKSDliqAx5LiqCmFkZEl0ZW0oNTIsIDEpOwoKLy8g5pS26ZuG54q25oCBCnJlc3VsdHMuZ3JvdXBzID0gU1RBVEUuZ3JvdXBzLm1hcChnID0+ICh7CiAgaWQ6IGcuaWQsCiAgbmFtZTogSVRFTVNbZy5pdGVtSWRdLm5hbWUsCiAgcXR5OiBnLnF0eSwKICBzdGFjazogSVRFTVNbZy5pdGVtSWRdLnN0YWNrLAogIGNlbGxzOiBnLmNlbGxzLAogIHZhbHVlOiBnLnF0eSAqIElURU1TW2cuaXRlbUlkXS52YWx1ZQp9KSk7CnJlc3VsdHMuc3RhdHMgPSBzdGF0c0RhdGEoKTsKcmVzdWx0cy5vY2N1cGllZFNvcnRlZCA9IFsuLi5vY2N1cGllZFNldCgpXS5zb3J0KChhLCBiKSA9PiBhIC0gYik7CgovLyA0KSDmiZPlvIDnrKzkuIDnu4TnmoTor6bmg4XlvLnnqpcKY29uc3QgZmlyc3RHcm91cCA9IFNUQVRFLmdyb3Vwc1swXTsKb3BlbkRldGFpbChmaXJzdEdyb3VwLmlkKTsKcmVzdWx0cy5kZXRhaWxPcGVuID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoImRldGFpbE1vZGFsIikuY2xhc3NMaXN0LmNvbnRhaW5zKCJzaG93Iik7CnJlc3VsdHMuZGV0YWlsVGl0bGUgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCIjZGV0YWlsQ2FyZCBoMiIpPy50ZXh0Q29udGVudDsKcmVzdWx0cy5kZXRhaWxTdGF0cyA9IEFycmF5LmZyb20oZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiI2RldGFpbENhcmQgLm0tc3RhdCBiIikpLm1hcChiID0+IGIudGV4dENvbnRlbnQpOwoKLy8gNSkg56e76Zmk5LiA5Liq77yM6aqM6K+B5aCG5Y+g5YeP5LiACmNvbnN0IHF0eUJlZm9yZSA9IGZpcnN0R3JvdXAucXR5OwpyZW1vdmVPbmUoZmlyc3RHcm91cC5pZCk7CmNvbnN0IGFmdGVyUmVtb3ZhbCA9IFNUQVRFLmdyb3Vwcy5maW5kKGcgPT4gZy5pZCA9PT0gZmlyc3RHcm91cC5pZCk7CnJlc3VsdHMucmVtb3ZhbFF0eSA9IGFmdGVyUmVtb3ZhbCA/IGFmdGVyUmVtb3ZhbC5xdHkgOiAwOwpyZXN1bHRzLnJlbW92ZWRDb21wbGV0ZWx5ID0gIWFmdGVyUmVtb3ZhbDsKCnJldHVybiByZXN1bHRzOwo=
+// 核心交互路径验证（初始态 -> 添加物品 -> 堆叠/多格 -> 详情 -> 统计）
+const results = {};
+
+// 1) 可堆叠物品：药草(id2) 加两次 -> 应堆叠为 qty=2，占1格
+addItem(2, 1);
+addItem(2, 1);
+
+// 2) 多格物品：急救包(id26, 2格) 加1个
+addItem(26, 1);
+
+// 3) 4格物品：防弹背心(id52) 加1个
+addItem(52, 1);
+
+// 收集状态
+results.groups = STATE.groups.map(g => ({
+  id: g.id,
+  name: ITEMS[g.itemId].name,
+  qty: g.qty,
+  stack: ITEMS[g.itemId].stack,
+  cells: g.cells,
+  value: g.qty * ITEMS[g.itemId].value
+}));
+results.stats = statsData();
+results.occupiedSorted = [...occupiedSet()].sort((a, b) => a - b);
+
+// 4) 打开第一组的详情弹窗
+const firstGroup = STATE.groups[0];
+openDetail(firstGroup.id);
+results.detailOpen = document.getElementById("detailModal").classList.contains("show");
+results.detailTitle = document.querySelector("#detailCard h2")?.textContent;
+results.detailStats = Array.from(document.querySelectorAll("#detailCard .m-stat b")).map(b => b.textContent);
+
+// 5) 移除一个，验证堆叠减一
+const qtyBefore = firstGroup.qty;
+removeOne(firstGroup.id);
+const afterRemoval = STATE.groups.find(g => g.id === firstGroup.id);
+results.removalQty = afterRemoval ? afterRemoval.qty : 0;
+results.removedCompletely = !afterRemoval;
+
+return results;

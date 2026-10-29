@@ -1,1 +1,35 @@
-Ly8g6aqM6K+B77ya5by56I2vIGNhdD13ZWFwb27vvIzmrablmajliIbnsbvnrZvpgInljIXlkKvlvLnoja8KY29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOwpjb25zdCB2bSA9IHJlcXVpcmUoInZtIik7CmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7Cgpjb25zdCBodG1sUGF0aCA9IHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICLkurrnianog4zljIXns7vnu58uaHRtbCIpOwpjb25zdCBodG1sID0gZnMucmVhZEZpbGVTeW5jKGh0bWxQYXRoLCAidXRmOCIpOwpjb25zdCBibG9ja3MgPSBbLi4uaHRtbC5tYXRjaEFsbCgvPHNjcmlwdD4oW1xzXFNdKj8pPFwvc2NyaXB0Pi9nKV0ubWFwKG0gPT4gbVsxXSk7CmNvbnN0IGNvZGUgPSBibG9ja3NbYmxvY2tzLmxlbmd0aCAtIDFdOwoKZnVuY3Rpb24gbWFrZUVsKCkgewogIHJldHVybiB7CiAgICBpbm5lckhUTUw6ICIiLCB0ZXh0Q29udGVudDogIiIsIHZhbHVlOiAiIiwgZGF0YXNldDoge30sCiAgICBjbGFzc0xpc3Q6IHsgYWRkKCkge30sIHJlbW92ZSgpIHt9LCB0b2dnbGUoKSB7fSwgY29udGFpbnMoKSB7IHJldHVybiBmYWxzZTsgfSB9LAogICAgc3R5bGU6IHt9LAogICAgYWRkRXZlbnRMaXN0ZW5lcigpIHt9LCBxdWVyeVNlbGVjdG9yQWxsKCkgeyByZXR1cm4gW107IH0sIHF1ZXJ5U2VsZWN0b3IoKSB7IHJldHVybiBudWxsOyB9LAogICAgZm9jdXMoKSB7fSwKICB9Owp9CmNvbnN0IHN0b3JlID0ge307CmNvbnN0IGRvY3VtZW50TW9jayA9IHsKICBnZXRFbGVtZW50QnlJZDogaWQgPT4gKHN0b3JlW2lkXSB8fCAoc3RvcmVbaWRdID0gbWFrZUVsKCkpKSwKICBhZGRFdmVudExpc3RlbmVyKCkge30sIGNyZWF0ZUVsZW1lbnQ6ICgpID0+IG1ha2VFbCgpLAp9Owpjb25zdCBjb250ZXh0ID0geyBkb2N1bWVudDogZG9jdW1lbnRNb2NrLCBjb25zb2xlLCBzZXRUaW1lb3V0LCBjbGVhclRpbWVvdXQgfTsKY29udGV4dC5nbG9iYWxUaGlzID0gY29udGV4dDsKdm0uY3JlYXRlQ29udGV4dChjb250ZXh0KTsKdm0ucnVuSW5Db250ZXh0KGNvZGUsIGNvbnRleHQpOwpjb25zdCBydW4gPSBleHByID0+IHZtLnJ1bkluQ29udGV4dChleHByLCBjb250ZXh0KTsKCmNvbnN0IG91dCA9IHt9OwpvdXQuYW1tb0NhdCA9IHJ1bihgSVRFTVNbNzNdLmNhdGApOyAvLyB3ZWFwb24Kb3V0LndlYXBvbkZpbHRlciA9IHJ1bihgKCgpPT57IFdPUkxELmZpbHRlcj0id2VhcG9uIjsgcmV0dXJuIElURU1TLmZpbHRlcihpdD0+aXQuY2F0PT09IndlYXBvbiIpLm1hcChpdD0+aXQubmFtZSk7IH0pKClgKTsKb3V0LmFtbW9JbldlYXBvbiA9IHJ1bihgSVRFTVMuc29tZShpdD0+aXQubmFtZT09PSLlvLnoja8iJiZpdC5jYXQ9PT0id2VhcG9uIilgKTsKY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkob3V0LCBudWxsLCAyKSk7Cg==
+// 验证：弹药 cat=weapon，武器分类筛选包含弹药
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+    focus() {},
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+const run = expr => vm.runInContext(expr, context);
+
+const out = {};
+out.ammoCat = run(`ITEMS[73].cat`); // weapon
+out.weaponFilter = run(`(()=>{ WORLD.filter="weapon"; return ITEMS.filter(it=>it.cat==="weapon").map(it=>it.name); })()`);
+out.ammoInWeapon = run(`ITEMS.some(it=>it.name==="弹药"&&it.cat==="weapon")`);
+console.log(JSON.stringify(out, null, 2));

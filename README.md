@@ -1,1 +1,18 @@
-IyDmvpzmtbfmub7kurrnianog4zljIXns7vnu58KCuWNleaWh+S7tue9kemhteeJiOS6uueJqeiDjOWMheeuoeeQhuezu+e7n+OAggoKIyMg5Zyo57q/6K6/6ZeuCgpHaXRIdWIgUGFnZXMg5ZCv55So5ZCO77yM6aaW6aG15Li6IGBpbmRleC5odG1sYOOAggoKIyMg5paH5Lu2CgotIGDkurrnianog4zljIXns7vnu58uaHRtbGDvvJrljp/lp4vnvZHpobXmlofku7bvvIzkv53mjIHkuI7mupDmlofku7bkuIDoh7TjgIIKLSBgaW5kZXguaHRtbGDvvJrkuI7ljp/nvZHpobXlhoXlrrnkuIDoh7TvvIznlKjkuo4gR2l0SHViIFBhZ2VzIOmmlumhteOAggotIGBfc2hvdHMvYO+8muahjOmdouerr+WSjOenu+WKqOerr+mqjOaUtuaIquWbvuOAgemqjOivgeiEmuacrOWPiumqjOaUtuaKpeWRiuOAggotIGBTSEEyNTZTVU1TLnR4dGDvvJrljp/lp4vnvZHpobXkuI4gYF9zaG90c2Ag6YWN5aWX5paH5Lu255qE5a6M5pW05oCn5qCh6aqM5YC844CCCgojIyDpqozmlLbnirbmgIEKCuWOn+mqjOaUtuaKpeWRiuaYvuekuuahjOmdouerr+S4juenu+WKqOerr+Wdh+aXoOaOp+WItuWPsOmUmeivr+OAgei1hOa6kOmUmeivr+aIluaoquWQkea6ouWHuuOAggo=
+# 澜海湾人物背包系统
+
+单文件网页版人物背包管理系统。
+
+## 在线访问
+
+GitHub Pages 启用后，首页为 `index.html`。
+
+## 文件
+
+- `人物背包系统.html`：原始网页文件，保持与源文件一致。
+- `index.html`：与原网页内容一致，用于 GitHub Pages 首页。
+- `_shots/`：桌面端和移动端验收截图、验证脚本及验收报告。
+- `SHA256SUMS.txt`：原始网页与 `_shots` 配套文件的完整性校验值。
+
+## 验收状态
+
+原验收报告显示桌面端与移动端均无控制台错误、资源错误或横向溢出。

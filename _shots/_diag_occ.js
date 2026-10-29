@@ -1,1 +1,43 @@
-Ly8g6K+K5pat77ya5Y+W5ZueNOagvOeJqeWTgSArIOWhnua7oeWQjueahOWNoOagvOaYjue7hgpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7CmNvbnN0IHZtID0gcmVxdWlyZSgidm0iKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKCmNvbnN0IGh0bWxQYXRoID0gcGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgIuS6uueJqeiDjOWMheezu+e7ny5odG1sIik7CmNvbnN0IGh0bWwgPSBmcy5yZWFkRmlsZVN5bmMoaHRtbFBhdGgsICJ1dGY4Iik7CmNvbnN0IGJsb2NrcyA9IFsuLi5odG1sLm1hdGNoQWxsKC88c2NyaXB0PihbXHNcU10qPyk8XC9zY3JpcHQ+L2cpXS5tYXAobSA9PiBtWzFdKTsKY29uc3QgY29kZSA9IGJsb2Nrc1tibG9ja3MubGVuZ3RoIC0gMV07CgpmdW5jdGlvbiBtYWtlRWwoKSB7CiAgcmV0dXJuIHsKICAgIGlubmVySFRNTDogIiIsIHRleHRDb250ZW50OiAiIiwgdmFsdWU6ICIiLCBkYXRhc2V0OiB7fSwKICAgIGNsYXNzTGlzdDogeyBhZGQoKSB7fSwgcmVtb3ZlKCkge30sIHRvZ2dsZSgpIHt9LCBjb250YWlucygpIHsgcmV0dXJuIGZhbHNlOyB9IH0sCiAgICBzdHlsZToge30sCiAgICBhZGRFdmVudExpc3RlbmVyKCkge30sIHF1ZXJ5U2VsZWN0b3JBbGwoKSB7IHJldHVybiBbXTsgfSwgcXVlcnlTZWxlY3RvcigpIHsgcmV0dXJuIG51bGw7IH0sCiAgICBmb2N1cygpIHt9LAogIH07Cn0KY29uc3Qgc3RvcmUgPSB7fTsKY29uc3QgZG9jdW1lbnRNb2NrID0gewogIGdldEVsZW1lbnRCeUlkOiBpZCA9PiAoc3RvcmVbaWRdIHx8IChzdG9yZVtpZF0gPSBtYWtlRWwoKSkpLAogIGFkZEV2ZW50TGlzdGVuZXIoKSB7fSwgY3JlYXRlRWxlbWVudDogKCkgPT4gbWFrZUVsKCksCn07CmNvbnN0IGNvbnRleHQgPSB7IGRvY3VtZW50OiBkb2N1bWVudE1vY2ssIGNvbnNvbGUsIHNldFRpbWVvdXQsIGNsZWFyVGltZW91dCB9Owpjb250ZXh0Lmdsb2JhbFRoaXMgPSBjb250ZXh0Owp2bS5jcmVhdGVDb250ZXh0KGNvbnRleHQpOwp2bS5ydW5JbkNvbnRleHQoY29kZSwgY29udGV4dCk7CmNvbnN0IHJ1biA9IGV4cHIgPT4gdm0ucnVuSW5Db250ZXh0KGV4cHIsIGNvbnRleHQpOwoKLy8g6KeS6ImyMiDlnLrmma/ph43mlL4KcnVuKGBjb25zdCBpZDI9Y3JlYXRlUm9sZSgi6LCD5p+l5ZGYIMK3IOS6jCIpOyBzd2l0Y2hSb2xlKGlkMik7YCk7CnJ1bihgYWRkSXRlbSgwLDEpOyBhZGRJdGVtKDEsMSk7YCk7ICAgICAgICAgICAgLy8g6ZKe56WoMSArIOiNr+iNiTEgPSAy5qC8CnJ1bihgYWRkU2xvdCgpOyBhZGRTbG90KCk7YCk7ICAgICAgICAgICAgICAgICAgLy8gYmFnU2xvdHMgMTItPjE0CnJ1bihgV09STEQud2FyZWhvdXNlWzUyXT0xOyB0YWtlRnJvbVdhcmVob3VzZSg1MiwxKTtgKTsgLy8g5Y+W5Zue6Ziy5by56IOM5b+DKDTmoLwpCnJ1bihgYWRkSXRlbSgzLDEpOyBhZGRJdGVtKDMsMSk7IGFkZEl0ZW0oMywxKTsgYWRkSXRlbSgzLDEpOyBhZGRJdGVtKDMsMSk7IGFkZEl0ZW0oMywxKTsgYWRkSXRlbSgzLDEpOyBhZGRJdGVtKDMsMSk7YCk7CmNvbnN0IGRpYWcgPSBydW4oYEpTT04uc3RyaW5naWZ5KHsKICBiYWdTbG90czogY3VyUm9sZSgpLmJhZ1Nsb3RzLAogIGdyb3VwczogY3VyUm9sZSgpLmdyb3Vwcy5tYXAoZz0+KHtuOklURU1TW2cuaXRlbUlkXS5uYW1lLCBxdHk6Zy5xdHksIGNlbGxzOmcuY2VsbHN9KSksCiAgdXNlZDogc3RhdHNEYXRhKCkudXNlZCwKICB3aDogV09STEQud2FyZWhvdXNlCn0pYCk7CmNvbnNvbGUubG9nKGRpYWcpOwo=
+// 诊断：取回4格物品 + 塞满后的占格明细
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+    focus() {},
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+const run = expr => vm.runInContext(expr, context);
+
+// 角色2 场景重放
+run(`const id2=createRole("调查员 · 二"); switchRole(id2);`);
+run(`addItem(0,1); addItem(1,1);`);            // 钞票1 + 药草1 = 2格
+run(`addSlot(); addSlot();`);                  // bagSlots 12->14
+run(`WORLD.warehouse[52]=1; takeFromWarehouse(52,1);`); // 取回防弹背心(4格)
+run(`addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1);`);
+const diag = run(`JSON.stringify({
+  bagSlots: curRole().bagSlots,
+  groups: curRole().groups.map(g=>({n:ITEMS[g.itemId].name, qty:g.qty, cells:g.cells})),
+  used: statsData().used,
+  wh: WORLD.warehouse
+})`);
+console.log(diag);

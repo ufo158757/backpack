@@ -1,1 +1,68 @@
-Ly8g6aqM6K+B5aSa6KeS6Imy6IOM5YyF77ya54us56uL5qC85a2QL+eLrOeri+eJqeWTgS/liIfmjaLkupLkuI3lubLmibAKY29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOwpjb25zdCB2bSA9IHJlcXVpcmUoInZtIik7CmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7Cgpjb25zdCBodG1sUGF0aCA9IHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICLkurrnianog4zljIXns7vnu58uaHRtbCIpOwpjb25zdCBodG1sID0gZnMucmVhZEZpbGVTeW5jKGh0bWxQYXRoLCAidXRmOCIpOwpjb25zdCBibG9ja3MgPSBbLi4uaHRtbC5tYXRjaEFsbCgvPHNjcmlwdD4oW1xzXFNdKj8pPFwvc2NyaXB0Pi9nKV0ubWFwKG0gPT4gbVsxXSk7CmNvbnN0IGNvZGUgPSBibG9ja3NbYmxvY2tzLmxlbmd0aCAtIDFdOwoKZnVuY3Rpb24gbWFrZUVsKCkgewogIHJldHVybiB7CiAgICBpbm5lckhUTUw6ICIiLCB0ZXh0Q29udGVudDogIiIsIHZhbHVlOiAiIiwgZGF0YXNldDoge30sCiAgICBjbGFzc0xpc3Q6IHsgYWRkKCkge30sIHJlbW92ZSgpIHt9LCB0b2dnbGUoKSB7fSwgY29udGFpbnMoKSB7IHJldHVybiBmYWxzZTsgfSB9LAogICAgc3R5bGU6IHt9LAogICAgYWRkRXZlbnRMaXN0ZW5lcigpIHt9LCBxdWVyeVNlbGVjdG9yQWxsKCkgeyByZXR1cm4gW107IH0sIHF1ZXJ5U2VsZWN0b3IoKSB7IHJldHVybiBudWxsOyB9LAogIH07Cn0KY29uc3Qgc3RvcmUgPSB7fTsKY29uc3QgZG9jdW1lbnRNb2NrID0gewogIGdldEVsZW1lbnRCeUlkOiBpZCA9PiAoc3RvcmVbaWRdIHx8IChzdG9yZVtpZF0gPSBtYWtlRWwoKSkpLAogIGFkZEV2ZW50TGlzdGVuZXIoKSB7fSwgY3JlYXRlRWxlbWVudDogKCkgPT4gbWFrZUVsKCksCn07CmNvbnN0IGNvbnRleHQgPSB7IGRvY3VtZW50OiBkb2N1bWVudE1vY2ssIGNvbnNvbGUsIHNldFRpbWVvdXQsIGNsZWFyVGltZW91dCB9Owpjb250ZXh0Lmdsb2JhbFRoaXMgPSBjb250ZXh0Owp2bS5jcmVhdGVDb250ZXh0KGNvbnRleHQpOwp2bS5ydW5JbkNvbnRleHQoY29kZSwgY29udGV4dCk7Cgpjb25zdCBydW4gPSBleHByID0+IHZtLnJ1bkluQ29udGV4dChleHByLCBjb250ZXh0KTsKY29uc3Qgb3V0ID0ge307CgovLyDliJ3lp4vvvJoxIOS4quinkuiJsgpvdXQuaW5pdGlhbFJvbGVzID0gcnVuKGBXT1JMRC5vcmRlci5sZW5ndGhgKTsgICAgICAgICAgICAvLyDmnJ/mnJsgMQpvdXQuaW5pdGlhbEN1cnJlbnQgPSBydW4oYFdPUkxELnJvbGVzW1dPUkxELmN1cnJlbnRdLm5hbWVgKTsgLy8g6LCD5p+l5ZGYIMK3IOS4gApvdXQuaW5pdGlhbEJhZyA9IHJ1bihgV09STEQucm9sZXNbV09STEQuY3VycmVudF0uYmFnU2xvdHNgKTsgLy8gMTIKCi8vIOinkuiJsjEg5pS+54mp5ZOBCnJ1bihgYWRkSXRlbSgwLDEpOyBhZGRJdGVtKDAsMSk7IGFkZEl0ZW0oMjYsMSk7YCk7ICAgICAgIC8vIOmSnuelqHgyIOWghuWPoCArIOaSrOajjTLmoLwKb3V0LnJvbGUxQWZ0ZXJBZGQgPSBydW4oYEpTT04uc3RyaW5naWZ5KFdPUkxELnJvbGVzW1dPUkxELmN1cnJlbnRdLmdyb3Vwcy5tYXAoZz0+W0lURU1TW2cuaXRlbUlkXS5uYW1lLGcucXR5LGcuY2VsbHNdKSlgKTsKb3V0LnJvbGUxQmFnID0gcnVuKGBXT1JMRC5yb2xlc1tXT1JMRC5jdXJyZW50XS5iYWdTbG90c2ApOwoKLy8g5paw5aKe6KeS6ImyMiDlubbliIfmjaIKcnVuKGBjb25zdCBpZDI9Y3JlYXRlUm9sZSgi6LCD5p+l5ZGYIMK3IOS6jCIpOyBzd2l0Y2hSb2xlKGlkMik7YCk7Cm91dC5yb2xlMkJhZyA9IHJ1bihgV09STEQucm9sZXNbV09STEQuY3VycmVudF0uYmFnU2xvdHNgKTsKb3V0LnJvbGUyR3JvdXBzID0gcnVuKGBXT1JMRC5yb2xlc1tXT1JMRC5jdXJyZW50XS5ncm91cHMubGVuZ3RoYCk7IC8vIOacn+acmyAw77yI56m677yJCm91dC5yb2xlMk9jY3VwaWVkID0gcnVuKGBzdGF0c0RhdGEoKS51c2VkYCk7ICAgICAgICAgICAgICAvLyDmnJ/mnJsgMAoKLy8g6KeS6ImyMiDliqAgMSDmoLzvvIjlupTlj6rlvbHlk43oh6rlt7HvvIkKcnVuKGBhZGRTbG90KCk7YCk7Cm91dC5yb2xlMkJhZ0FmdGVyID0gcnVuKGBXT1JMRC5yb2xlc1tXT1JMRC5jdXJyZW50XS5iYWdTbG90c2ApOyAvLyAxMwpvdXQucm9sZTFCYWdVbmFmZmVjdGVkID0gcnVuKGBXT1JMRC5yb2xlc1sicm9sZTEiXS5iYWdTbG90c2ApOyAgLy8g5pyf5pybIDEyCgovLyDop5LoibIyIOaUvuS4gOS4queJqeWTgQpydW4oYGFkZEl0ZW0oMSwxKTtgKTsKb3V0LnJvbGUyR3JvdXBzTm93ID0gcnVuKGBXT1JMRC5yb2xlc1tXT1JMRC5jdXJyZW50XS5ncm91cHMubGVuZ3RoYCk7IC8vIDEKCi8vIOWIh+WbnuinkuiJsjHvvJrnianlk4Hku43lupTkv53nlZkKcnVuKGBzd2l0Y2hSb2xlKCJyb2xlMSIpO2ApOwpvdXQuYmFja1RvUm9sZTEgPSBydW4oYEpTT04uc3RyaW5naWZ5KFdPUkxELnJvbGVzW1dPUkxELmN1cnJlbnRdLmdyb3Vwcy5tYXAoZz0+W0lURU1TW2cuaXRlbUlkXS5uYW1lLGcucXR5LGcuY2VsbHNdKSlgKTsKb3V0LnJvbGUxQmFnRmluYWwgPSBydW4oYFdPUkxELnJvbGVzW1dPUkxELmN1cnJlbnRdLmJhZ1Nsb3RzYCk7IC8vIDEyCgovLyDop5LoibLmoI/muLLmn5PvvJrlupTljIXlkKvkuKTkuKrop5LoibIKcnVuKGByZW5kZXJSb2xlVGFicygpO2ApOwpjb25zdCB0YWJzSHRtbCA9IHN0b3JlWyJyb2xlVGFicyJdLmlubmVySFRNTDsKb3V0LnRhYkNvdW50ID0gKHRhYnNIdG1sLm1hdGNoKC9jbGFzcz0icm9sZS10YWIvZykgfHwgW10pLmxlbmd0aDsgLy8gMgpvdXQudGFic0NvbnRhaW5OYW1lcyA9IHRhYnNIdG1sLmluY2x1ZGVzKCLosIPmn6XlkZggwrcg5LiAIikgJiYgdGFic0h0bWwuaW5jbHVkZXMoIuiwg+afpeWRmCDCtyDkuowiKTsKCmNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KG91dCwgbnVsbCwgMikpOwo=
+// 验证多角色背包：独立格子/独立物品/切换互不干扰
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+
+const run = expr => vm.runInContext(expr, context);
+const out = {};
+
+// 初始：1 个角色
+out.initialRoles = run(`WORLD.order.length`);            // 期望 1
+out.initialCurrent = run(`WORLD.roles[WORLD.current].name`); // 调查员 · 一
+out.initialBag = run(`WORLD.roles[WORLD.current].bagSlots`); // 12
+
+// 角色1 放物品
+run(`addItem(0,1); addItem(0,1); addItem(26,1);`);       // 钞票x2 堆叠 + 撬棍2格
+out.role1AfterAdd = run(`JSON.stringify(WORLD.roles[WORLD.current].groups.map(g=>[ITEMS[g.itemId].name,g.qty,g.cells]))`);
+out.role1Bag = run(`WORLD.roles[WORLD.current].bagSlots`);
+
+// 新增角色2 并切换
+run(`const id2=createRole("调查员 · 二"); switchRole(id2);`);
+out.role2Bag = run(`WORLD.roles[WORLD.current].bagSlots`);
+out.role2Groups = run(`WORLD.roles[WORLD.current].groups.length`); // 期望 0（空）
+out.role2Occupied = run(`statsData().used`);              // 期望 0
+
+// 角色2 加 1 格（应只影响自己）
+run(`addSlot();`);
+out.role2BagAfter = run(`WORLD.roles[WORLD.current].bagSlots`); // 13
+out.role1BagUnaffected = run(`WORLD.roles["role1"].bagSlots`);  // 期望 12
+
+// 角色2 放一个物品
+run(`addItem(1,1);`);
+out.role2GroupsNow = run(`WORLD.roles[WORLD.current].groups.length`); // 1
+
+// 切回角色1：物品仍应保留
+run(`switchRole("role1");`);
+out.backToRole1 = run(`JSON.stringify(WORLD.roles[WORLD.current].groups.map(g=>[ITEMS[g.itemId].name,g.qty,g.cells]))`);
+out.role1BagFinal = run(`WORLD.roles[WORLD.current].bagSlots`); // 12
+
+// 角色栏渲染：应包含两个角色
+run(`renderRoleTabs();`);
+const tabsHtml = store["roleTabs"].innerHTML;
+out.tabCount = (tabsHtml.match(/class="role-tab/g) || []).length; // 2
+out.tabsContainNames = tabsHtml.includes("调查员 · 一") && tabsHtml.includes("调查员 · 二");
+
+console.log(JSON.stringify(out, null, 2));

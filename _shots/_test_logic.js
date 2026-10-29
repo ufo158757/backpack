@@ -1,1 +1,73 @@
-Ly8g6ZqU56a76aqM6K+BIEhUTUwg5YaF55yf5a6e6ISa5pys55qE6IOM5YyF5qC45b+D6YC76L6R77yI5aCG5Y+gL+WkmuagvOi/nue7reagvC/nqbrpl7TkuI3otrMv56e76Zmk77yJCmNvbnN0IGZzID0gcmVxdWlyZSgiZnMiKTsKY29uc3Qgdm0gPSByZXF1aXJlKCJ2bSIpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOwoKY29uc3QgaHRtbFBhdGggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAi5Lq654mp6IOM5YyF57O757ufLmh0bWwiKTsKY29uc3QgaHRtbCA9IGZzLnJlYWRGaWxlU3luYyhodG1sUGF0aCwgInV0ZjgiKTsKCi8vIOWPluacgOWQjuS4gOS4qiA8c2NyaXB0PiDlnZfvvIjkuJrliqHpgLvovpHvvIkKY29uc3QgYmxvY2tzID0gWy4uLmh0bWwubWF0Y2hBbGwoLzxzY3JpcHQ+KFtcc1xTXSo/KTxcL3NjcmlwdD4vZyldLm1hcChtID0+IG1bMV0pOwpjb25zdCBjb2RlID0gYmxvY2tzW2Jsb2Nrcy5sZW5ndGggLSAxXTsKCi8vIOacgOWwjyBET00gbW9ja++8jOi2s+S7peaUr+aSkeiEmuacrOmhtuWxgua4suafk+iwg+eUqApmdW5jdGlvbiBtYWtlRWwoKSB7CiAgcmV0dXJuIHsKICAgIGlubmVySFRNTDogIiIsIHRleHRDb250ZW50OiAiIiwgdmFsdWU6ICIiLCBkYXRhc2V0OiB7fSwKICAgIGNsYXNzTGlzdDogeyBhZGQoKSB7fSwgcmVtb3ZlKCkge30sIHRvZ2dsZSgpIHt9LCBjb250YWlucygpIHsgcmV0dXJuIGZhbHNlOyB9IH0sCiAgICBzdHlsZToge30sCiAgICBhZGRFdmVudExpc3RlbmVyKCkge30sIHF1ZXJ5U2VsZWN0b3JBbGwoKSB7IHJldHVybiBbXTsgfSwgcXVlcnlTZWxlY3RvcigpIHsgcmV0dXJuIG51bGw7IH0sCiAgfTsKfQpjb25zdCBzdG9yZSA9IHt9Owpjb25zdCBkb2N1bWVudE1vY2sgPSB7CiAgZ2V0RWxlbWVudEJ5SWQ6IGlkID0+IChzdG9yZVtpZF0gfHwgKHN0b3JlW2lkXSA9IG1ha2VFbCgpKSksCiAgYWRkRXZlbnRMaXN0ZW5lcigpIHt9LAogIGNyZWF0ZUVsZW1lbnQ6ICgpID0+IG1ha2VFbCgpLAp9Owpjb25zdCBjb250ZXh0ID0gewogIGRvY3VtZW50OiBkb2N1bWVudE1vY2ssIGNvbnNvbGUsIHNldFRpbWVvdXQsIGNsZWFyVGltZW91dCwKfTsKY29udGV4dC5nbG9iYWxUaGlzID0gY29udGV4dDsKdm0uY3JlYXRlQ29udGV4dChjb250ZXh0KTsKCi8vIDEpIOi9veWFpemhtemdouecn+WunuiEmuacrO+8iOWumuS5iSBJVEVNUyAvIFNUQVRFIC8gYWRkSXRlbSAvIHJlbW92ZU9uZSDnrYnvvIkKdm0ucnVuSW5Db250ZXh0KGNvZGUsIGNvbnRleHQpOwoKLy8gMikg6amx5Yqo5qC45b+D6Lev5b6E77yM6L+U5Zue55yf5a6eIFNUQVRFIOe7k+aenApjb25zdCB2ZXJpZnkgPSBgCmFkZEl0ZW0oMiwxKTsgYWRkSXRlbSgyLDEpOyAgICAgICAgICAgIC8vIOiNr+iNie+8muS4pOasoe+8jOW6lOWghuWPoOS4uiBxdHk9Miwg5Y2gMeagvAphZGRJdGVtKDI2LDEpOyAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g5oCl5pWR5YyF77yaMuagvOeJqeWTgQphZGRJdGVtKDUyLDEpOyAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g6Ziy5by56IOM5b+D77yaNOagvOeJqeWTgQpKU09OLnN0cmluZ2lmeSh7CiAgZ3JvdXBzOiBTVEFURS5ncm91cHMubWFwKGc9Pih7CiAgICBuYW1lOiBJVEVNU1tnLml0ZW1JZF0ubmFtZSwKICAgIHF0eTogZy5xdHksIHN0YWNrOiBJVEVNU1tnLml0ZW1JZF0uc3RhY2ssCiAgICBjZWxsczogZy5jZWxscywgdmFsOiBnLnF0eSpJVEVNU1tnLml0ZW1JZF0udmFsdWUKICB9KSksCiAgc3RhdHM6IHN0YXRzRGF0YSgpLAogIG9jY3VwaWVkOiBbLi4ub2NjdXBpZWRTZXQoKV0uc29ydCgoYSxiKT0+YS1iKQp9KTsKYDsKY29uc29sZS5sb2coIj09IOaUvue9ri/loIblj6DlkI4gPT0iKTsKY29uc29sZS5sb2codm0ucnVuSW5Db250ZXh0KHZlcmlmeSwgY29udGV4dCkpOwoKLy8gMykg56m66Ze05LiN6Laz5Zy65pmv77ya5aGe5ruh6IOM5YyFCmNvbnN0IGZpbGwgPSBgCmxldCBhZGRlZD0wLCBmdWxsPWZhbHNlOwpmb3IobGV0IGs9MDtrPDEyO2srKyl7IGlmKGFkZEl0ZW0oODQsMSkpIGFkZGVkKys7IGVsc2UgeyBmdWxsPXRydWU7IGJyZWFrOyB9IH0KSlNPTi5zdHJpbmdpZnkoe2FkZGVkLCBmdWxsLCB1c2VkOiBzdGF0c0RhdGEoKS51c2VkfSk7CmA7CmNvbnNvbGUubG9nKCI9PSDpgJDmraXloZ7mu6Hoh7PkuI3otrMgPT0iKTsKY29uc29sZS5sb2codm0ucnVuSW5Db250ZXh0KGZpbGwsIGNvbnRleHQpKTsKCi8vIDQpIOenu+mZpO+8muenu+mZpOS4gOe7hOS4reeahCAxIOS4qiAvIOa4heepuuaVtOe7hApjb25zdCByZW1vdmFsID0gYApjb25zdCBnMD1TVEFURS5ncm91cHNbMF07CmNvbnN0IGJlZm9yZT1KU09OLnN0cmluZ2lmeShTVEFURS5ncm91cHMubWFwKGc9PltJVEVNU1tnLml0ZW1JZF0ubmFtZSxnLnF0eSxnLmNlbGxzXSkpOwpyZW1vdmVPbmUoZzAuaWQpOwpyZW1vdmVBbGwoU1RBVEUuZ3JvdXBzWzBdLmlkKTsKSlNPTi5zdHJpbmdpZnkoe2JlZm9yZSwgYWZ0ZXI6IFNUQVRFLmdyb3Vwcy5tYXAoZz0+W0lURU1TW2cuaXRlbUlkXS5uYW1lLGcucXR5LGcuY2VsbHNdKSwgc3RhdHM6IHN0YXRzRGF0YSgpfSk7CmA7CmNvbnNvbGUubG9nKCI9PSDnp7vpmaTlkI4gPT0iKTsKY29uc29sZS5sb2codm0ucnVuSW5Db250ZXh0KHJlbW92YWwsIGNvbnRleHQpKTsK
+// 隔离验证 HTML 内真实脚本的背包核心逻辑（堆叠/多格连续格/空间不足/移除）
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+
+// 取最后一个 <script> 块（业务逻辑）
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+// 最小 DOM mock，足以支撑脚本顶层渲染调用
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {},
+  createElement: () => makeEl(),
+};
+const context = {
+  document: documentMock, console, setTimeout, clearTimeout,
+};
+context.globalThis = context;
+vm.createContext(context);
+
+// 1) 载入页面真实脚本（定义 ITEMS / STATE / addItem / removeOne 等）
+vm.runInContext(code, context);
+
+// 2) 驱动核心路径，返回真实 STATE 结果
+const verify = `
+addItem(2,1); addItem(2,1);            // 药草：两次，应堆叠为 qty=2, 占1格
+addItem(26,1);                          // 急救包：2格物品
+addItem(52,1);                          // 防弹背心：4格物品
+JSON.stringify({
+  groups: STATE.groups.map(g=>({
+    name: ITEMS[g.itemId].name,
+    qty: g.qty, stack: ITEMS[g.itemId].stack,
+    cells: g.cells, val: g.qty*ITEMS[g.itemId].value
+  })),
+  stats: statsData(),
+  occupied: [...occupiedSet()].sort((a,b)=>a-b)
+});
+`;
+console.log("== 放置/堆叠后 ==");
+console.log(vm.runInContext(verify, context));
+
+// 3) 空间不足场景：塞满背包
+const fill = `
+let added=0, full=false;
+for(let k=0;k<12;k++){ if(addItem(84,1)) added++; else { full=true; break; } }
+JSON.stringify({added, full, used: statsData().used});
+`;
+console.log("== 逐步塞满至不足 ==");
+console.log(vm.runInContext(fill, context));
+
+// 4) 移除：移除一组中的 1 个 / 清空整组
+const removal = `
+const g0=STATE.groups[0];
+const before=JSON.stringify(STATE.groups.map(g=>[ITEMS[g.itemId].name,g.qty,g.cells]));
+removeOne(g0.id);
+removeAll(STATE.groups[0].id);
+JSON.stringify({before, after: STATE.groups.map(g=>[ITEMS[g.itemId].name,g.qty,g.cells]), stats: statsData()});
+`;
+console.log("== 移除后 ==");
+console.log(vm.runInContext(removal, context));

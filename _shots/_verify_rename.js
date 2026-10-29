@@ -1,1 +1,51 @@
-Ly8g6aqM6K+B6KeS6Imy5ZCN56ew6Ieq5a6a5LmJ77yacmVuYW1lUm9sZSArIOinkuiJsuagj+a4suafk+WQq+mHjeWRveWQjeaMiemSrgpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7CmNvbnN0IHZtID0gcmVxdWlyZSgidm0iKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKCmNvbnN0IGh0bWxQYXRoID0gcGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgIuS6uueJqeiDjOWMheezu+e7ny5odG1sIik7CmNvbnN0IGh0bWwgPSBmcy5yZWFkRmlsZVN5bmMoaHRtbFBhdGgsICJ1dGY4Iik7CmNvbnN0IGJsb2NrcyA9IFsuLi5odG1sLm1hdGNoQWxsKC88c2NyaXB0PihbXHNcU10qPyk8XC9zY3JpcHQ+L2cpXS5tYXAobSA9PiBtWzFdKTsKY29uc3QgY29kZSA9IGJsb2Nrc1tibG9ja3MubGVuZ3RoIC0gMV07CgpmdW5jdGlvbiBtYWtlRWwoKSB7CiAgcmV0dXJuIHsKICAgIGlubmVySFRNTDogIiIsIHRleHRDb250ZW50OiAiIiwgdmFsdWU6ICIiLCBkYXRhc2V0OiB7fSwKICAgIGNsYXNzTGlzdDogeyBhZGQoKSB7fSwgcmVtb3ZlKCkge30sIHRvZ2dsZSgpIHt9LCBjb250YWlucygpIHsgcmV0dXJuIGZhbHNlOyB9IH0sCiAgICBzdHlsZToge30sCiAgICBhZGRFdmVudExpc3RlbmVyKCkge30sIHF1ZXJ5U2VsZWN0b3JBbGwoKSB7IHJldHVybiBbXTsgfSwgcXVlcnlTZWxlY3RvcigpIHsgcmV0dXJuIG51bGw7IH0sCiAgfTsKfQpjb25zdCBzdG9yZSA9IHt9Owpjb25zdCBkb2N1bWVudE1vY2sgPSB7CiAgZ2V0RWxlbWVudEJ5SWQ6IGlkID0+IChzdG9yZVtpZF0gfHwgKHN0b3JlW2lkXSA9IG1ha2VFbCgpKSksCiAgYWRkRXZlbnRMaXN0ZW5lcigpIHt9LCBjcmVhdGVFbGVtZW50OiAoKSA9PiBtYWtlRWwoKSwKfTsKY29uc3QgY29udGV4dCA9IHsgZG9jdW1lbnQ6IGRvY3VtZW50TW9jaywgY29uc29sZSwgc2V0VGltZW91dCwgY2xlYXJUaW1lb3V0IH07CmNvbnRleHQuZ2xvYmFsVGhpcyA9IGNvbnRleHQ7CnZtLmNyZWF0ZUNvbnRleHQoY29udGV4dCk7CnZtLnJ1bkluQ29udGV4dChjb2RlLCBjb250ZXh0KTsKCmNvbnN0IHJ1biA9IGV4cHIgPT4gdm0ucnVuSW5Db250ZXh0KGV4cHIsIGNvbnRleHQpOwpjb25zdCBvdXQgPSB7fTsKCi8vIDEpIOeUqOiHquWumuS5ieWQjeensOaWsOWinuinkuiJsgpydW4oYGNyZWF0ZVJvbGUoIumYv+atpiIpOyBjcmVhdGVSb2xlKCLmsZ/mnIjmsqciKTtgKTsKb3V0Lm9yZGVyID0gcnVuKGBXT1JMRC5vcmRlci5tYXAoaWQ9PldPUkxELnJvbGVzW2lkXS5uYW1lKWApOwoKLy8gMikg6YeN5ZG95ZCN546w5pyJ6KeS6ImyCnJ1bihgcmVuYW1lUm9sZSgicm9sZTEiLCLmmJ/muq8iKTtgKTsKb3V0LnJlbmFtZWQgPSBydW4oYFdPUkxELnJvbGVzWyJyb2xlMSJdLm5hbWVgKTsgLy8g5pif5rqvCgovLyAzKSDph43lkb3lkI3nqbrnmb3lkI3kuI3lupTmuIXnqboKcnVuKGByZW5hbWVSb2xlKCJyb2xlMiIsIiAgICIpO2ApOwpvdXQuYmxhbmtLZXB0ID0gcnVuKGBXT1JMRC5yb2xlc1sicm9sZTIiXS5uYW1lYCk7IC8vIOmYv+atpgoKLy8gNCkg6KeS6Imy5qCP5riy5p+T77ya5q+P5Liq6KeS6Imy5ZCr6YeN5ZG95ZCN5oyJ6ZKuICsg6Ieq5a6a5LmJ5ZCNCnJ1bihgc3dpdGNoUm9sZSgicm9sZTEiKTsgcmVuZGVyUm9sZVRhYnMoKTtgKTsKY29uc3QgdGFic0h0bWwgPSBzdG9yZVsicm9sZVRhYnMiXS5pbm5lckhUTUw7Cm91dC5yZW5hbWVCdG5Db3VudCA9ICh0YWJzSHRtbC5tYXRjaCgvY2xhc3M9InJ0LXJlbmFtZSIvZykgfHwgW10pLmxlbmd0aDsgLy8gMwpvdXQubmFtZXNTaG93biA9IFsi5pif5rqvIiwi6Zi/5q2mIiwi5rGf5pyI5rKnIl0uZXZlcnkobiA9PiB0YWJzSHRtbC5pbmNsdWRlcyhuKSk7Cm91dC50YWJUYWdJc0RpdiA9IC88ZGl2IGNsYXNzPSJyb2xlLXRhYi8udGVzdCh0YWJzSHRtbCk7Cgpjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShvdXQsIG51bGwsIDIpKTsK
+// 验证角色名称自定义：renameRole + 角色栏渲染含重命名按钮
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+
+const run = expr => vm.runInContext(expr, context);
+const out = {};
+
+// 1) 用自定义名称新增角色
+run(`createRole("阿武"); createRole("江月沧");`);
+out.order = run(`WORLD.order.map(id=>WORLD.roles[id].name)`);
+
+// 2) 重命名现有角色
+run(`renameRole("role1","星溯");`);
+out.renamed = run(`WORLD.roles["role1"].name`); // 星溯
+
+// 3) 重命名空白名不应清空
+run(`renameRole("role2","   ");`);
+out.blankKept = run(`WORLD.roles["role2"].name`); // 阿武
+
+// 4) 角色栏渲染：每个角色含重命名按钮 + 自定义名
+run(`switchRole("role1"); renderRoleTabs();`);
+const tabsHtml = store["roleTabs"].innerHTML;
+out.renameBtnCount = (tabsHtml.match(/class="rt-rename"/g) || []).length; // 3
+out.namesShown = ["星溯","阿武","江月沧"].every(n => tabsHtml.includes(n));
+out.tabTagIsDiv = /<div class="role-tab/.test(tabsHtml);
+
+console.log(JSON.stringify(out, null, 2));

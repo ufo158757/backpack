@@ -1,1 +1,48 @@
-Ly8g6aqM6K+B6IOM5YyF5qC85Yqg5YeP77ya5LiK6ZmQMjDjgIHkuIvpmZAxMOOAgeacq+agvOWNoOeUqOaXtuemgeatouWHj+agvApjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7CmNvbnN0IHZtID0gcmVxdWlyZSgidm0iKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKCmNvbnN0IGh0bWxQYXRoID0gcGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgIuS6uueJqeiDjOWMheezu+e7ny5odG1sIik7CmNvbnN0IGh0bWwgPSBmcy5yZWFkRmlsZVN5bmMoaHRtbFBhdGgsICJ1dGY4Iik7CmNvbnN0IGJsb2NrcyA9IFsuLi5odG1sLm1hdGNoQWxsKC88c2NyaXB0PihbXHNcU10qPyk8XC9zY3JpcHQ+L2cpXS5tYXAobSA9PiBtWzFdKTsKY29uc3QgY29kZSA9IGJsb2Nrc1tibG9ja3MubGVuZ3RoIC0gMV07CgpmdW5jdGlvbiBtYWtlRWwoKSB7CiAgcmV0dXJuIHsKICAgIGlubmVySFRNTDogIiIsIHRleHRDb250ZW50OiAiIiwgdmFsdWU6ICIiLCBkYXRhc2V0OiB7fSwKICAgIGNsYXNzTGlzdDogeyBhZGQoKSB7fSwgcmVtb3ZlKCkge30sIHRvZ2dsZSgpIHt9LCBjb250YWlucygpIHsgcmV0dXJuIGZhbHNlOyB9IH0sCiAgICBzdHlsZToge30sCiAgICBhZGRFdmVudExpc3RlbmVyKCkge30sIHF1ZXJ5U2VsZWN0b3JBbGwoKSB7IHJldHVybiBbXTsgfSwgcXVlcnlTZWxlY3RvcigpIHsgcmV0dXJuIG51bGw7IH0sCiAgfTsKfQpjb25zdCBzdG9yZSA9IHt9Owpjb25zdCBkb2N1bWVudE1vY2sgPSB7CiAgZ2V0RWxlbWVudEJ5SWQ6IGlkID0+IChzdG9yZVtpZF0gfHwgKHN0b3JlW2lkXSA9IG1ha2VFbCgpKSksCiAgYWRkRXZlbnRMaXN0ZW5lcigpIHt9LCBjcmVhdGVFbGVtZW50OiAoKSA9PiBtYWtlRWwoKSwKfTsKY29uc3QgY29udGV4dCA9IHsgZG9jdW1lbnQ6IGRvY3VtZW50TW9jaywgY29uc29sZSwgc2V0VGltZW91dCwgY2xlYXJUaW1lb3V0IH07CmNvbnRleHQuZ2xvYmFsVGhpcyA9IGNvbnRleHQ7CnZtLmNyZWF0ZUNvbnRleHQoY29udGV4dCk7CnZtLnJ1bkluQ29udGV4dChjb2RlLCBjb250ZXh0KTsKCmNvbnN0IHJ1biA9IGV4cHIgPT4gdm0ucnVuSW5Db250ZXh0KGV4cHIsIGNvbnRleHQpOwpjb25zdCBvdXQgPSB7fTsKCi8vIDEpIOS7jiAxMiDliqDliLAgMjDvvIg45qyh5oiQ5Yqf77yM56ysOeasoeW6lOWBnOWcqDIw77yJCmZvciAobGV0IGkgPSAwOyBpIDwgOTsgaSsrKSBydW4oYGFkZFNsb3QoKWApOwpvdXQuYWZ0ZXJBZGRUbzIwID0gcnVuKGBCQUdfU0xPVFNgKTsgLy8g5pyf5pybIDIwCgovLyAyKSDku44gMjAg5YeP5YiwIDEw77yIMTDmrKHmiJDlip/vvIznrKwxMeasoeW6lOWBnOWcqDEw77yJCmZvciAobGV0IGkgPSAwOyBpIDwgMTE7IGkrKykgcnVuKGByZW1vdmVTbG90KClgKTsKb3V0LmFmdGVyUmVtb3ZlVG8xMCA9IHJ1bihgQkFHX1NMT1RTYCk7IC8vIOacn+acmyAxMAoKLy8gMykg6YeN572u5YiwIDE177yM5p6E6YCg5pyr5qC86KKr5Y2g55So55qE5oOF5b2i77yM5YeP5qC85bqU6KKr5ouS57udCnJ1bihgQkFHX1NMT1RTPTE1OyBTVEFURS5ncm91cHM9W3tpZDo5OSxpdGVtSWQ6MCxxdHk6MSxjZWxsczpbMTRdfV07YCk7CnJ1bihgcmVtb3ZlU2xvdCgpYCk7Cm91dC5yZW1vdmFsQmxvY2tlZEJ5T2NjdXBpZWQgPSBydW4oYEJBR19TTE9UU2ApOyAvLyDmnJ/mnJvku40gMTUKLy8g5riF56m65ZCO5YaN5YeP5bqU5oiQ5YqfCnJ1bihgU1RBVEUuZ3JvdXBzPVtdOyByZW1vdmVTbG90KCk7YCk7Cm91dC5yZW1vdmFsQWZ0ZXJDbGVhciA9IHJ1bihgQkFHX1NMT1RTYCk7IC8vIOacn+acmyAxNAoKY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkob3V0LCBudWxsLCAyKSk7Cg==
+// 验证背包格加减：上限20、下限10、末格占用时禁止减格
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+
+const run = expr => vm.runInContext(expr, context);
+const out = {};
+
+// 1) 从 12 加到 20（8次成功，第9次应停在20）
+for (let i = 0; i < 9; i++) run(`addSlot()`);
+out.afterAddTo20 = run(`BAG_SLOTS`); // 期望 20
+
+// 2) 从 20 减到 10（10次成功，第11次应停在10）
+for (let i = 0; i < 11; i++) run(`removeSlot()`);
+out.afterRemoveTo10 = run(`BAG_SLOTS`); // 期望 10
+
+// 3) 重置到 15，构造末格被占用的情形，减格应被拒绝
+run(`BAG_SLOTS=15; STATE.groups=[{id:99,itemId:0,qty:1,cells:[14]}];`);
+run(`removeSlot()`);
+out.removalBlockedByOccupied = run(`BAG_SLOTS`); // 期望仍 15
+// 清空后再减应成功
+run(`STATE.groups=[]; removeSlot();`);
+out.removalAfterClear = run(`BAG_SLOTS`); // 期望 14
+
+console.log(JSON.stringify(out, null, 2));

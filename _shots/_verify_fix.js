@@ -1,1 +1,59 @@
-Ly8g6aqM6K+B5Lik5aSE5L+u5aSN77yaZGF0YS1pZCDkuIvmoIfmraPnoa7mgKcgKyDog4zljIXmoLzmianlrrkgKyDnianlk4Hlj6/liqDlhaUKY29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOwpjb25zdCB2bSA9IHJlcXVpcmUoInZtIik7CmNvbnN0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7Cgpjb25zdCBodG1sUGF0aCA9IHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICLkurrnianog4zljIXns7vnu58uaHRtbCIpOwpjb25zdCBodG1sID0gZnMucmVhZEZpbGVTeW5jKGh0bWxQYXRoLCAidXRmOCIpOwpjb25zdCBibG9ja3MgPSBbLi4uaHRtbC5tYXRjaEFsbCgvPHNjcmlwdD4oW1xzXFNdKj8pPFwvc2NyaXB0Pi9nKV0ubWFwKG0gPT4gbVsxXSk7CmNvbnN0IGNvZGUgPSBibG9ja3NbYmxvY2tzLmxlbmd0aCAtIDFdOwoKZnVuY3Rpb24gbWFrZUVsKCkgewogIHJldHVybiB7CiAgICBpbm5lckhUTUw6ICIiLCB0ZXh0Q29udGVudDogIiIsIHZhbHVlOiAiIiwgZGF0YXNldDoge30sCiAgICBjbGFzc0xpc3Q6IHsgYWRkKCkge30sIHJlbW92ZSgpIHt9LCB0b2dnbGUoKSB7fSwgY29udGFpbnMoKSB7IHJldHVybiBmYWxzZTsgfSB9LAogICAgc3R5bGU6IHt9LAogICAgYWRkRXZlbnRMaXN0ZW5lcigpIHt9LCBxdWVyeVNlbGVjdG9yQWxsKCkgeyByZXR1cm4gW107IH0sIHF1ZXJ5U2VsZWN0b3IoKSB7IHJldHVybiBudWxsOyB9LAogIH07Cn0KY29uc3Qgc3RvcmUgPSB7fTsKY29uc3QgZG9jdW1lbnRNb2NrID0gewogIGdldEVsZW1lbnRCeUlkOiBpZCA9PiAoc3RvcmVbaWRdIHx8IChzdG9yZVtpZF0gPSBtYWtlRWwoKSkpLAogIGFkZEV2ZW50TGlzdGVuZXIoKSB7fSwgY3JlYXRlRWxlbWVudDogKCkgPT4gbWFrZUVsKCksCn07CmNvbnN0IGNvbnRleHQgPSB7IGRvY3VtZW50OiBkb2N1bWVudE1vY2ssIGNvbnNvbGUsIHNldFRpbWVvdXQsIGNsZWFyVGltZW91dCB9Owpjb250ZXh0Lmdsb2JhbFRoaXMgPSBjb250ZXh0Owp2bS5jcmVhdGVDb250ZXh0KGNvbnRleHQpOwp2bS5ydW5JbkNvbnRleHQoY29kZSwgY29udGV4dCk7Cgpjb25zdCBvdXQgPSB7fTsKCi8vIEEpIGRhdGEtaWQg5LiL5qCH5q2j56Gu5oCnCnZtLnJ1bkluQ29udGV4dChgcmVuZGVyTGlicmFyeSgpYCwgY29udGV4dCk7CmNvbnN0IGxpYkh0bWwgPSBzdG9yZVsibGliTGlzdCJdLmlubmVySFRNTDsKY29uc3QgZGF0YUlkcyA9IFsuLi5saWJIdG1sLm1hdGNoQWxsKC9kYXRhLWlkPSIoXGQrKSIvZyldLm1hcChtID0+ICttWzFdKTsKb3V0Lml0ZW1Db3VudCA9IGRhdGFJZHMubGVuZ3RoOwpvdXQuZmlyc3RTaXggPSBkYXRhSWRzLnNsaWNlKDAsIDYpOwpvdXQuYWxsTnVtZXJpYyA9IGRhdGFJZHMuZXZlcnkoTnVtYmVyLmlzSW50ZWdlcik7Cm91dC5oYXNVbmRlZmluZWQgPSAvZGF0YS1pZD0idW5kZWZpbmVkIi8udGVzdChsaWJIdG1sKTsKCi8vIEIpIOeUqCBkYXRhLWlkIDDvvIjpkp7npajvvInliqDlhaXog4zljIUKdm0ucnVuSW5Db250ZXh0KGBhZGRJdGVtKCR7ZGF0YUlkc1swXX0sMSk7IGFkZEl0ZW0oJHtkYXRhSWRzWzBdfSwxKTtgLCBjb250ZXh0KTsKb3V0LmFkZGVkID0gdm0ucnVuSW5Db250ZXh0KAogIGBKU09OLnN0cmluZ2lmeShTVEFURS5ncm91cHMubWFwKGc9Pih7bmFtZTpJVEVNU1tnLml0ZW1JZF0ubmFtZSxxdHk6Zy5xdHksY2VsbHM6Zy5jZWxsc30pKSlgLCBjb250ZXh0Cik7CgovLyBDKSDmianlrrnvvJrliqAgMyDmoLwKdm0ucnVuSW5Db250ZXh0KGBhZGRTbG90KCk7IGFkZFNsb3QoKTsgYWRkU2xvdCgpO2AsIGNvbnRleHQpOwpvdXQuc2xvdHNBZnRlciA9IHZtLnJ1bkluQ29udGV4dChgQkFHX1NMT1RTYCwgY29udGV4dCk7CnZtLnJ1bkluQ29udGV4dChgcmVuZGVyQmFja3BhY2soKWAsIGNvbnRleHQpOwpjb25zdCBiYWdIdG1sID0gc3RvcmVbImJhZ0dyaWQiXS5pbm5lckhUTUw7Cm91dC5iYWdDZWxsQ291bnQgPSAoYmFnSHRtbC5tYXRjaCgvY2xhc3M9ImNlbGwvZykgfHwgW10pLmxlbmd0aDsKCi8vIEQpIOaJqeWuueWQjuS7jeiDveaUvuaWsOeJqeWTge+8iOeUqOWUr+S4gOeJqeWTgSBpZO+8jOi3s+i/hyBhZGQg5oyJ6ZKu55qE6YeN5aSNIGlk77yJCnZtLnJ1bkluQ29udGV4dChgYWRkSXRlbSgke2RhdGFJZHNbMl19LDEpO2AsIGNvbnRleHQpOwpvdXQuYWZ0ZXJFeHBhbmQgPSB2bS5ydW5JbkNvbnRleHQoCiAgYEpTT04uc3RyaW5naWZ5KHt1c2VkOiBzdGF0c0RhdGEoKS51c2VkLCBncm91cHM6IFNUQVRFLmdyb3Vwcy5tYXAoZz0+W0lURU1TW2cuaXRlbUlkXS5uYW1lLGcuY2VsbHNdKX0pYCwgY29udGV4dAopOwoKY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkob3V0LCBudWxsLCAyKSk7Cg==
+// 验证两处修复：data-id 下标正确性 + 背包格扩容 + 物品可加入
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+
+const out = {};
+
+// A) data-id 下标正确性
+vm.runInContext(`renderLibrary()`, context);
+const libHtml = store["libList"].innerHTML;
+const dataIds = [...libHtml.matchAll(/data-id="(\d+)"/g)].map(m => +m[1]);
+out.itemCount = dataIds.length;
+out.firstSix = dataIds.slice(0, 6);
+out.allNumeric = dataIds.every(Number.isInteger);
+out.hasUndefined = /data-id="undefined"/.test(libHtml);
+
+// B) 用 data-id 0（钞票）加入背包
+vm.runInContext(`addItem(${dataIds[0]},1); addItem(${dataIds[0]},1);`, context);
+out.added = vm.runInContext(
+  `JSON.stringify(STATE.groups.map(g=>({name:ITEMS[g.itemId].name,qty:g.qty,cells:g.cells})))`, context
+);
+
+// C) 扩容：加 3 格
+vm.runInContext(`addSlot(); addSlot(); addSlot();`, context);
+out.slotsAfter = vm.runInContext(`BAG_SLOTS`, context);
+vm.runInContext(`renderBackpack()`, context);
+const bagHtml = store["bagGrid"].innerHTML;
+out.bagCellCount = (bagHtml.match(/class="cell/g) || []).length;
+
+// D) 扩容后仍能放新物品（用唯一物品 id，跳过 add 按钮的重复 id）
+vm.runInContext(`addItem(${dataIds[2]},1);`, context);
+out.afterExpand = vm.runInContext(
+  `JSON.stringify({used: statsData().used, groups: STATE.groups.map(g=>[ITEMS[g.itemId].name,g.cells])})`, context
+);
+
+console.log(JSON.stringify(out, null, 2));

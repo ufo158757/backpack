@@ -1,1 +1,79 @@
-Ly8g6aqM6K+B5YWx5Lqr5LuT5bqT77ya5a2Y5YWlL+WFqOmDqOWtmOWFpS/ot6jop5LoibLlhbHkuqsv5Y+W5ZueL+epuumXtOS4jei2s+S/neaKpApjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7CmNvbnN0IHZtID0gcmVxdWlyZSgidm0iKTsKY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsKCmNvbnN0IGh0bWxQYXRoID0gcGF0aC5qb2luKF9fZGlybmFtZSwgIi4uIiwgIuS6uueJqeiDjOWMheezu+e7ny5odG1sIik7CmNvbnN0IGh0bWwgPSBmcy5yZWFkRmlsZVN5bmMoaHRtbFBhdGgsICJ1dGY4Iik7CmNvbnN0IGJsb2NrcyA9IFsuLi5odG1sLm1hdGNoQWxsKC88c2NyaXB0PihbXHNcU10qPyk8XC9zY3JpcHQ+L2cpXS5tYXAobSA9PiBtWzFdKTsKY29uc3QgY29kZSA9IGJsb2Nrc1tibG9ja3MubGVuZ3RoIC0gMV07CgpmdW5jdGlvbiBtYWtlRWwoKSB7CiAgcmV0dXJuIHsKICAgIGlubmVySFRNTDogIiIsIHRleHRDb250ZW50OiAiIiwgdmFsdWU6ICIiLCBkYXRhc2V0OiB7fSwKICAgIGNsYXNzTGlzdDogeyBhZGQoKSB7fSwgcmVtb3ZlKCkge30sIHRvZ2dsZSgpIHt9LCBjb250YWlucygpIHsgcmV0dXJuIGZhbHNlOyB9IH0sCiAgICBzdHlsZToge30sCiAgICBhZGRFdmVudExpc3RlbmVyKCkge30sIHF1ZXJ5U2VsZWN0b3JBbGwoKSB7IHJldHVybiBbXTsgfSwgcXVlcnlTZWxlY3RvcigpIHsgcmV0dXJuIG51bGw7IH0sCiAgICBmb2N1cygpIHt9LAogIH07Cn0KY29uc3Qgc3RvcmUgPSB7fTsKY29uc3QgZG9jdW1lbnRNb2NrID0gewogIGdldEVsZW1lbnRCeUlkOiBpZCA9PiAoc3RvcmVbaWRdIHx8IChzdG9yZVtpZF0gPSBtYWtlRWwoKSkpLAogIGFkZEV2ZW50TGlzdGVuZXIoKSB7fSwgY3JlYXRlRWxlbWVudDogKCkgPT4gbWFrZUVsKCksCn07CmNvbnN0IGNvbnRleHQgPSB7IGRvY3VtZW50OiBkb2N1bWVudE1vY2ssIGNvbnNvbGUsIHNldFRpbWVvdXQsIGNsZWFyVGltZW91dCB9Owpjb250ZXh0Lmdsb2JhbFRoaXMgPSBjb250ZXh0Owp2bS5jcmVhdGVDb250ZXh0KGNvbnRleHQpOwp2bS5ydW5JbkNvbnRleHQoY29kZSwgY29udGV4dCk7Cgpjb25zdCBydW4gPSBleHByID0+IHZtLnJ1bkluQ29udGV4dChleHByLCBjb250ZXh0KTsKY29uc3Qgb3V0ID0ge307CgovLyAwKSDliJ3lp4vvvJrku5PlupPnqboKb3V0LndoSW5pdGlhbCA9IHJ1bihgSlNPTi5zdHJpbmdpZnkoV09STEQud2FyZWhvdXNlKWApOyAvLyB7fQoKLy8gMSkg6KeS6ImyMSDmlL4g6ZKe56WoeDLjgIHoja/ojYl4Me+8jOWNlee7hOWtmOWFpeS7k+W6kwpydW4oYGFkZEl0ZW0oMCwxKTsgYWRkSXRlbSgwLDEpOyBhZGRJdGVtKDEsMSk7YCk7ICAgICAgIC8vIOmSnuelqDIgKyDoja/ojYkxCmNvbnN0IGcxID0gcnVuKGBXT1JMRC5yb2xlc1tXT1JMRC5jdXJyZW50XS5ncm91cHNbMF0uaWRgKTsgLy8g6ZKe56Wo57uECnJ1bihgc3RvcmVUb1dhcmVob3VzZSgke2cxfSk7YCk7Cm91dC5hZnRlclN0b3JlT25lID0gcnVuKGBKU09OLnN0cmluZ2lmeSh7d2g6V09STEQud2FyZWhvdXNlLCBncm91cHM6V09STEQucm9sZXNbV09STEQuY3VycmVudF0uZ3JvdXBzLm1hcChnPT5bSVRFTVNbZy5pdGVtSWRdLm5hbWUsZy5xdHldKX0pYCk7Ci8vIOacn+acmyB3aDp7IjAiOjJ9LCDog4zljIXliakg6I2v6I2JMQoKLy8gMikg5YWo6YOo5a2Y5YWl77yI6I2v6I2J77yJCnJ1bihgc3RvcmVBbGxUb1dhcmVob3VzZSgpO2ApOwpvdXQuYWZ0ZXJTdG9yZUFsbCA9IHJ1bihgSlNPTi5zdHJpbmdpZnkoe3doOldPUkxELndhcmVob3VzZSwgZ3JvdXBzOldPUkxELnJvbGVzW1dPUkxELmN1cnJlbnRdLmdyb3Vwcy5sZW5ndGh9KWApOwovLyDmnJ/mnJsgd2g6eyIwIjoyLCIxIjoxfSwg6IOM5YyF56m6CgovLyAzKSDliIfliLDop5LoibIy77yM5LuT5bqT5pWw5o2u5YWx5Lqr5LiN5Y+YCnJ1bihgY29uc3QgaWQyPWNyZWF0ZVJvbGUoIuiwg+afpeWRmCDCtyDkuowiKTsgc3dpdGNoUm9sZShpZDIpO2ApOwpvdXQuc2hhcmVkV2ggPSBydW4oYEpTT04uc3RyaW5naWZ5KFdPUkxELndhcmVob3VzZSlgKTsgLy8geyIwIjoyLCIxIjoxfQoKLy8gNCkg6KeS6ImyMiDku47ku5PlupPlj5blm54g6ZKe56WoMSArIOiNr+iNiTEKcnVuKGB0YWtlRnJvbVdhcmVob3VzZSgwLDEpOyB0YWtlRnJvbVdhcmVob3VzZSgxLDEpO2ApOwpvdXQuYWZ0ZXJUYWtlID0gcnVuKGBKU09OLnN0cmluZ2lmeSh7d2g6V09STEQud2FyZWhvdXNlLCByb2xlMjpXT1JMRC5yb2xlc1tXT1JMRC5jdXJyZW50XS5ncm91cHMubWFwKGc9PltJVEVNU1tnLml0ZW1JZF0ubmFtZSxnLnF0eV0pfSlgKTsKLy8g5pyf5pybIHdoOnsiMCI6MX0sIOinkuiJsjIg5pyJIOmSnuelqDHjgIHoja/ojYkxCgovLyA1KSDnqbrpl7TkuI3otrPkv53miqTvvJrop5LoibIyIOiDjOWMheWPquWJqTPmoLzvvIjpkp7npagxK+iNr+iNiTHljaAy5qC877yJ77yM6K+V5Y+W5ZueIDTmoLznianlk4Eg6Ziy5by56IOM5b+DCnJ1bihgYWRkU2xvdCgpOyBhZGRTbG90KCk7YCk7IC8vIOWKoOWIsDE05qC85LiN5b2x5ZON5rWL6K+V77yM55u05o6l5p6E6YCg5ruh77ya566A5YyW55So5LuT5bqT5pS+6Ziy5by56IOM5b+DCnJ1bihgV09STEQud2FyZWhvdXNlWzUyXT0xO2ApOwpjb25zdCBiZWZvcmU1MiA9IHJ1bihgV09STEQud2FyZWhvdXNlWzUyXWApOwpydW4oYHRha2VGcm9tV2FyZWhvdXNlKDUyLDEpO2ApOwpvdXQuc3BhY2VHdWFyZCA9IHJ1bihgSlNPTi5zdHJpbmdpZnkoe3doNTI6V09STEQud2FyZWhvdXNlWzUyXXx8MCwgdW5jaGFuZ2VkOiBXT1JMRC53YXJlaG91c2VbNTJdPT09MX0pYCk7Ci8vIOmYsuW8ueiDjOW/gzTmoLzvvIzop5LoibIy6IOM5YyF546w5pyJ6ZKe56WoKDHmoLwpK+iNr+iNiSgx5qC8KT0y5qC877yMMTItMj0xMOagvOepuumXtO+8jDTmoLzmlL7lvpfkuIvigKbigKbpnIDopoHljaDmu6HmiY3ooYwKCi8vIDViKSDnnJ/mraPljaDmu6HvvJrmiorop5LoibIy6IOM5YyF5aGe5Yiw5Y+q5YmpM+agvOS7peS4i++8jOWGjeWPljTmoLznianlk4HlupTlpLHotKUKcnVuKGBhZGRJdGVtKDMsMSk7IGFkZEl0ZW0oMywxKTsgYWRkSXRlbSgzLDEpOyBhZGRJdGVtKDMsMSk7IGFkZEl0ZW0oMywxKTsgYWRkSXRlbSgzLDEpOyBhZGRJdGVtKDMsMSk7IGFkZEl0ZW0oMywxKTtgKTsKLy8g6aOf54mpMeagvHg4IOKGkiAyKzg9MTDmoLzljaDnlKjvvIzliaky5qC877yM6Ziy5by56IOM5b+DNOagvOaUvuS4jeS4iwpjb25zdCB3aDUyYmVmb3JlID0gcnVuKGBXT1JMRC53YXJlaG91c2VbNTJdYCk7CnJ1bihgdGFrZUZyb21XYXJlaG91c2UoNTIsMSk7YCk7Cm91dC5zcGFjZUd1YXJkMiA9IHJ1bihgSlNPTi5zdHJpbmdpZnkoe3doNTI6V09STEQud2FyZWhvdXNlWzUyXSwga2VwdDpXT1JMRC53YXJlaG91c2VbNTJdPT09JHt3aDUyYmVmb3JlfSwgdXNlZDpzdGF0c0RhdGEoKS51c2VkfSlgKTsKLy8g5pyf5pybIHdoNTIg5LiN5Y+Y77yI5Y+W5Zue5aSx6LSl77yJ77yMdXNlZD0xMAoKLy8gNikg5LuT5bqT6KeG5Zu+5riy5p+TCnJ1bihgV09STEQudmlldz0id2giOyByZW5kZXJXYXJlaG91c2UoKTtgKTsKY29uc3Qgd2hIdG1sID0gc3RvcmVbIndoTGlzdCJdLmlubmVySFRNTDsKb3V0LndoUmVuZGVyZWQgPSB3aEh0bWwuaW5jbHVkZXMoImNsYXNzPVwid2gtaXRlbVwiIikgJiYgd2hIdG1sLmluY2x1ZGVzKCLlj5YgMSIpICYmIHdoSHRtbC5pbmNsdWRlcygi5YWo5Y+WIik7Cm91dC53aExhYmVsID0gc3RvcmVbIndoU2xvdExhYmVsIl0udGV4dENvbnRlbnQ7Cgpjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShvdXQsIG51bGwsIDIpKTsK
+// 验证共享仓库：存入/全部存入/跨角色共享/取回/空间不足保护
+const fs = require("fs");
+const vm = require("vm");
+const path = require("path");
+
+const htmlPath = path.join(__dirname, "..", "人物背包系统.html");
+const html = fs.readFileSync(htmlPath, "utf8");
+const blocks = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const code = blocks[blocks.length - 1];
+
+function makeEl() {
+  return {
+    innerHTML: "", textContent: "", value: "", dataset: {},
+    classList: { add() {}, remove() {}, toggle() {}, contains() { return false; } },
+    style: {},
+    addEventListener() {}, querySelectorAll() { return []; }, querySelector() { return null; },
+    focus() {},
+  };
+}
+const store = {};
+const documentMock = {
+  getElementById: id => (store[id] || (store[id] = makeEl())),
+  addEventListener() {}, createElement: () => makeEl(),
+};
+const context = { document: documentMock, console, setTimeout, clearTimeout };
+context.globalThis = context;
+vm.createContext(context);
+vm.runInContext(code, context);
+
+const run = expr => vm.runInContext(expr, context);
+const out = {};
+
+// 0) 初始：仓库空
+out.whInitial = run(`JSON.stringify(WORLD.warehouse)`); // {}
+
+// 1) 角色1 放 钞票x2、药草x1，单组存入仓库
+run(`addItem(0,1); addItem(0,1); addItem(1,1);`);       // 钞票2 + 药草1
+const g1 = run(`WORLD.roles[WORLD.current].groups[0].id`); // 钞票组
+run(`storeToWarehouse(${g1});`);
+out.afterStoreOne = run(`JSON.stringify({wh:WORLD.warehouse, groups:WORLD.roles[WORLD.current].groups.map(g=>[ITEMS[g.itemId].name,g.qty])})`);
+// 期望 wh:{"0":2}, 背包剩 药草1
+
+// 2) 全部存入（药草）
+run(`storeAllToWarehouse();`);
+out.afterStoreAll = run(`JSON.stringify({wh:WORLD.warehouse, groups:WORLD.roles[WORLD.current].groups.length})`);
+// 期望 wh:{"0":2,"1":1}, 背包空
+
+// 3) 切到角色2，仓库数据共享不变
+run(`const id2=createRole("调查员 · 二"); switchRole(id2);`);
+out.sharedWh = run(`JSON.stringify(WORLD.warehouse)`); // {"0":2,"1":1}
+
+// 4) 角色2 从仓库取回 钞票1 + 药草1
+run(`takeFromWarehouse(0,1); takeFromWarehouse(1,1);`);
+out.afterTake = run(`JSON.stringify({wh:WORLD.warehouse, role2:WORLD.roles[WORLD.current].groups.map(g=>[ITEMS[g.itemId].name,g.qty])})`);
+// 期望 wh:{"0":1}, 角色2 有 钞票1、药草1
+
+// 5) 空间不足保护：角色2 背包只剩3格（钞票1+药草1占2格），试取回 4格物品 防弹背心
+run(`addSlot(); addSlot();`); // 加到14格不影响测试，直接构造满：简化用仓库放防弹背心
+run(`WORLD.warehouse[52]=1;`);
+const before52 = run(`WORLD.warehouse[52]`);
+run(`takeFromWarehouse(52,1);`);
+out.spaceGuard = run(`JSON.stringify({wh52:WORLD.warehouse[52]||0, unchanged: WORLD.warehouse[52]===1})`);
+// 防弹背心4格，角色2背包现有钞票(1格)+药草(1格)=2格，12-2=10格空间，4格放得下……需要占满才行
+
+// 5b) 真正占满：把角色2背包塞到只剩3格以下，再取4格物品应失败
+run(`addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1); addItem(3,1);`);
+// 食物1格x8 → 2+8=10格占用，剩2格，防弹背心4格放不下
+const wh52before = run(`WORLD.warehouse[52]`);
+run(`takeFromWarehouse(52,1);`);
+out.spaceGuard2 = run(`JSON.stringify({wh52:WORLD.warehouse[52], kept:WORLD.warehouse[52]===${wh52before}, used:statsData().used})`);
+// 期望 wh52 不变（取回失败），used=10
+
+// 6) 仓库视图渲染
+run(`WORLD.view="wh"; renderWarehouse();`);
+const whHtml = store["whList"].innerHTML;
+out.whRendered = whHtml.includes("class=\"wh-item\"") && whHtml.includes("取 1") && whHtml.includes("全取");
+out.whLabel = store["whSlotLabel"].textContent;
+
+console.log(JSON.stringify(out, null, 2));
